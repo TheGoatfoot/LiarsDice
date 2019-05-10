@@ -1,0 +1,3 @@
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/boost-wrapper-lib.dir
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

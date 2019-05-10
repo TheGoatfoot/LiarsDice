@@ -1,0 +1,4 @@
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/bullet/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/bullet-lib.dir
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/bullet/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/bullet/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/bullet-wrapper-lib.dir
+C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/bullet/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir

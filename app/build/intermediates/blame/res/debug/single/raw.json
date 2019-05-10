@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dice_dae",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\dice_dae"
+    },
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\table_dae",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\table_dae"
+    },
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dice_obj",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\dice_obj"
+    },
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\table_obj",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\table_obj"
+    },
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dice_png",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\dice_png"
+    },
+    {
+        "merged": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\res\\merged\\debug\\raw\\table_jpg",
+        "source": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\src\\main\\res\\raw\\table_jpg"
+    }
+]

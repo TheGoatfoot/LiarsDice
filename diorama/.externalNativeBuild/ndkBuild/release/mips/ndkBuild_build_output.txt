@@ -1,0 +1,5 @@
+md "C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\ndkBuild\release\lib\mips" >NUL 2>NUL || rem
+C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/build//../prebuilt/windows-x86_64/bin/echo.exe [mips] "Install        ": "libBulletDiorama.so => C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\ndkBuild\release\lib/mips/libBulletDiorama.so"
+copy /b/y "C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\ndkBuild\release\obj\local\mips\libBulletDiorama.so" "C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\ndkBuild\release\lib\mips\libBulletDiorama.so" > NUL
+C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/build//../toolchains/mipsel-linux-android-4.9/prebuilt/windows-x86_64/bin/mipsel-linux-android-strip --strip-unneeded  C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\ndkBuild\release\lib/mips/libBulletDiorama.so
+process_begin: CreateProcess(NULL, "", ...) failed.

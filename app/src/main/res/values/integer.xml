@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="animation_time_medium">125</integer>
+
+    <integer name="server_datagram_port">20015</integer>
+    <integer name="server_websocket_port">20020</integer>
+
+    <integer name="server_player_count_max">6</integer>
+    <integer name="server_player_count_min">2</integer>
+
+    <integer name="server_verify_duration">2</integer>
+    <integer name="server_tick_interval">10</integer>
+
+    <integer name="server_disconnect_unsafe">-1</integer>
+    <integer name="server_disconnect_safe">0</integer>
+    <integer name="server_disconnect_full">1</integer>
+    <integer name="server_disconnect_invalid">2</integer>
+    <integer name="server_disconnect_verify">3</integer>
+
+    <integer name="game_dicecast_distance">25</integer>
+    <integer name="game_dicecast_vertical_offset">2</integer>
+    <integer name="game_dicecast_random_horizontal_offset">8</integer>
+    <integer name="game_dicecast_random_torque">80</integer>
+    <integer name="game_dicecast_threshold">95</integer>
+
+    <integer name="game_dice_maximum">20</integer>
+    <integer name="game_dice_default">5</integer>
+</resources>

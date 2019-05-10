@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:5:5-7:35
+	android:glEsVersion
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:6:9-41
+	android:required
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:7:9-32
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:9:22-64
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:11:26-76
+supports-gl-texture#GL_OES_compressed_paletted_texture
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:12:26-75
+application
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:14:5-36:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\c9b328a728fa6c94f6f7e79c671f565a6b05d14f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\54227ebfbbaf31883cde283ee0a593d8267f5b2e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\30a294fd1bc92f5dd7d65ddc0bca9d9dfc351d03\output\AndroidManifest.xml:8:5-20
+MERGED from [LiarsDice:diorama:unspecified] C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [LiarsDice:bullet:unspecified] C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\bullet\build\intermediates\bundles\default\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\8ec7da529242b8ef138a803833b6a9dc64ba8394\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\3ace305c16544fe22dd0e250ee106970e4dbe0b3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\1211bfe27abd959e81da7e27ab4cc8f2d6610643\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\cb048fceb1f2d29f7aca7c10201444b042bf1af0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\ae0798e5bc78f3704320c1deef30d178553b4bad\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\ddf6426f80255cc8dd289ebebab1c974d8936fe6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\8529b5ecb2e56472eb49b97b6f06814e22de263d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\da5e28d84447745232e3bcf8389c263058501b8e\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\e00292a6d4c07df854562d38268e42d5f4b1338d\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.everhardsoft.liarsdice.activity.EntryActivity
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:22:13-49
+	android:theme
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:21:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.everhardsoft.liarsdice.activity.MenuActivity
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:31:13-50
+activity#com.everhardsoft.liarsdice.activity.GameActivity
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:33:9-59
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:33:19-56
+activity#com.everhardsoft.liarsdice.activity.ManualPlayActivity
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:34:9-65
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:34:19-62
+activity#com.everhardsoft.liarsdice.activity.MultiplayerPlayActivity
+ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:35:9-79
+	android:name
+		ADDED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml:35:19-67
+uses-sdk
+INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\f1d0ea4a4c078cac6cbc7b9e1df0a4eacd56e498\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\c9b328a728fa6c94f6f7e79c671f565a6b05d14f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\0fe61e507e6876b5c0cbb168d6d9101c18edcd01\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\54227ebfbbaf31883cde283ee0a593d8267f5b2e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.3.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\30a294fd1bc92f5dd7d65ddc0bca9d9dfc351d03\output\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\45bc2753b020ff94c8b7ca92bfa6e162464c167b\output\AndroidManifest.xml:5:5-43
+MERGED from [LiarsDice:diorama:unspecified] C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [LiarsDice:bullet:unspecified] C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\bullet\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\8ec7da529242b8ef138a803833b6a9dc64ba8394\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\3ace305c16544fe22dd0e250ee106970e4dbe0b3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\1211bfe27abd959e81da7e27ab4cc8f2d6610643\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\cb048fceb1f2d29f7aca7c10201444b042bf1af0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\ae0798e5bc78f3704320c1deef30d178553b4bad\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\ddf6426f80255cc8dd289ebebab1c974d8936fe6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\8529b5ecb2e56472eb49b97b6f06814e22de263d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\da5e28d84447745232e3bcf8389c263058501b8e\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\e00292a6d4c07df854562d38268e42d5f4b1338d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\faisa.WIN-LF6M45SDJR2\.android\build-cache\c9b328a728fa6c94f6f7e79c671f565a6b05d14f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\app\src\main\AndroidManifest.xml

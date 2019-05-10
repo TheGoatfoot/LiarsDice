@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\src\main\res"/><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\generated\res\rs\release"/><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\src\main\res"><file path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\src\main\res\values\strings.xml" qualifiers=""><string name="shader_vertex_normal">
+        uniform mat4 model;
+        uniform mat4 view;
+        uniform mat4 projection;
+
+        attribute vec4 position;
+        attribute vec2 textureUV;
+        attribute vec3 normal;
+
+        varying vec2 f_textureUV;
+
+        void main() {
+            gl_Position = projection * view * model * position;
+            f_textureUV = textureUV;
+        }
+    </string><string name="shader_fragment_normal">
+        precision mediump float;
+
+        varying vec2 f_textureUV;
+
+        uniform sampler2D texture;
+
+        void main() {
+            gl_FragColor = texture2D(texture, f_textureUV);
+        }
+    </string><string name="app_name">Diorama</string></file></source><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\generated\res\rs\release"/><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\diorama\src\release\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\.android\\build-cache\\8ec7da529242b8ef138a803833b6a9dc64ba8394\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

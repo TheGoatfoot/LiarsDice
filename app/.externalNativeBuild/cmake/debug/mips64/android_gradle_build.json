@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\.externalNativeBuild\\cmake\\debug\\mips64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"dioramaBullet-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "dioramaBullet",
+			"buildCommand" : "C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\.externalNativeBuild\\cmake\\debug\\mips64 --target dioramaBullet",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/platforms/android-21/arch-mips64  -DdioramaBullet_EXPORTS -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips64\\include -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/app/src/main/cpp/dioramaBullet.cpp",
+					"workingDirectory" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/app/.externalNativeBuild/cmake/debug/mips64"
+				}
+			],
+			"output" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/app/build/intermediates/cmake/debug/obj/mips64/libdioramaBullet.so",
+			"toolchain" : "3636958441"
+		}
+	},
+	"toolchains" : 
+	{
+		"3636958441" : 
+		{
+			"cCompilerExecutable" : "C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

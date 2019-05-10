@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\diorama\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"boost-wrapper-lib-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost-wrapper-lib",
+			"buildCommand" : "C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\diorama\\.externalNativeBuild\\cmake\\release\\x86 --target boost-wrapper-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target i686-none-linux-android -gcc-toolchain C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/platforms/android-15/arch-x86  -Dboost_wrapper_lib_EXPORTS -IC:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\diorama\\src\\main\\cpp -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\include -isystem C:\\Users\\faisa.WIN-LF6M45SDJR2\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/src/main/cpp/Intersection.cpp",
+					"workingDirectory" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "C:/Users/faisa.WIN-LF6M45SDJR2/Documents/AndroidStudioProjects/LiarsDice/diorama/build/intermediates/cmake/release/obj/x86/libboost-wrapper-lib.so",
+			"toolchain" : "3636958441"
+		}
+	},
+	"toolchains" : 
+	{
+		"3636958441" : 
+		{
+			"cCompilerExecutable" : "C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/faisa.WIN-LF6M45SDJR2/AppData/Local/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,14 @@
+Executable : C:\Users\faisa.WIN-LF6M45SDJR2\AppData\Local\Android\Sdk\cmake\3.6.3155560\bin\cmake.exe
+arguments : 
+-HC:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\bullet\src\main\cpp
+-BC:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\bullet\.externalNativeBuild\cmake\release\x86_64
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=x86_64
+-DANDROID_NDK=C:\Users\faisa.WIN-LF6M45SDJR2\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\faisa.WIN-LF6M45SDJR2\Documents\AndroidStudioProjects\LiarsDice\bullet\build\intermediates\cmake\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=C:\Users\faisa.WIN-LF6M45SDJR2\AppData\Local\Android\Sdk\cmake\3.6.3155560\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\faisa.WIN-LF6M45SDJR2\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_PLATFORM=android-21
+jvmArgs : 
+

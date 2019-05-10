@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\Documents\\AndroidStudioProjects\\LiarsDice\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\faisa.WIN-LF6M45SDJR2\\.android\\build-cache\\e17cfece5203dc66b76c7c4d6bbc5ec6cadd5b66\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

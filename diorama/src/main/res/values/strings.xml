@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Diorama</string>
+    <string name="shader_vertex_normal">
+        uniform mat4 model;
+        uniform mat4 view;
+        uniform mat4 projection;
+
+        attribute vec4 position;
+        attribute vec2 textureUV;
+        attribute vec3 normal;
+
+        varying vec2 f_textureUV;
+
+        void main() {
+            gl_Position = projection * view * model * position;
+            f_textureUV = textureUV;
+        }
+    </string>
+    <string name="shader_fragment_normal">
+        precision mediump float;
+
+        varying vec2 f_textureUV;
+
+        uniform sampler2D texture;
+
+        void main() {
+            gl_FragColor = texture2D(texture, f_textureUV);
+        }
+    </string>
+
+    <!--
+    <string name="shader_vertex_normal">
+        uniform mat4 model;
+        uniform mat4 view;
+        uniform mat4 projection;
+
+        attribute vec4 position;
+        attribute vec2 textureUV;
+        attribute vec3 normal;
+
+        varying vec3 f_position_worldspace;
+        varying vec2 f_textureUV;
+        varying vec3 f_normal;
+
+        void main() {
+            gl_Position = projection * view * model * position;
+
+            f_position_worldspace = vec3(model * position);
+            f_textureUV = textureUV;
+            f_normal = mat3(transpose(inverse(model))) * normal;
+        }
+    </string>
+    <string name="shader_fragment_normal">
+        precision mediump float;
+
+        varying vec3 f_position_worldspace;
+        varying vec2 f_textureUV;
+        varying vec3 f_normal;
+
+        uniform sampler2D texture;
+
+        vec3 lightPosition;
+        vec3 lightColor;
+        uniform vec3 cameraPosition;
+        uniform vec3 objectColor;
+
+        void main() {
+            lightPosition = vec3(0, 100, 0);
+            lightColor = vec3(1, 1, 1);
+
+            float ambientStrength = 0.1;
+            vec3 ambient = ambientStrength * lightColor;
+
+            vec3 norm = normalize(f_normal);
+            vec3 lightDir = normalize(lightPosition - f_position_worldspace);
+            float diff = max(dot(norm, lightDir), 0.0);
+            vec3 diffuse = diff * lightColor;
+
+            float specularStrength = 1.0;
+            vec3 viewDir = normalize(cameraPosition - f_position_worldspace);
+            vec3 reflectDir = reflect(-lightDir, norm);
+            float spec = pow(max(dot(viewDir, reflectDir), 0.0), 32.0);
+            vec3 specular = specularStrength * spec * lightColor;
+
+            vec3 result = (ambient + diffuse + specular) * objectColor;
+
+            gl_FragColor = texture2D(texture, f_textureUV) * vec4(result, 1.0f);
+        }
+    </string>
+    -->
+</resources>

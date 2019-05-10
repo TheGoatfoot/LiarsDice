@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Liar\'s Dice</string>
+
+    <string name="fragment_mainmenu_multiplayer_button">Multiplayer</string>
+    <string name="fragment_mainmenu_manualplay_button">Manual Play</string>
+    <string name="fragment_mainmenu_settings_button">Settings</string>
+
+    <string name="fragment_clearview_hide_button">Hide</string>
+
+    <string name="fragment_obstruction_show_button">Show</string>
+
+    <string name="activity_manualplay_result_value_textview">x %d</string>
+    <string name="activity_manualplay_castdie_castprompt_textview">Pull down to cast the dice.</string>
+    <string name="activity_manualplay_castdie_menu_add_button">&gt;</string>
+    <string name="activity_manualplay_castdie_menu_subtract_button">&lt;</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nickname_textfield_hint">nickname</string>
+
+    <string name="address_local">127.0.0.1</string>
+
+    <string name="key_preference">com.everhardsoft.liarsdice</string>
+    <string name="preference_multiplayer_nickname">nickname</string>
+    <string name="preference_multiplayer_nickname_default">Johnny</string>
+
+    <string name="json_type">type</string>
+    <string name="json_type_payload">payload</string>
+
+    <string name="json_request">request</string>
+    <string name="json_request_playerlist">player list</string>
+    <string name="json_request_disconnect">disconnect</string>
+    <string name="json_request_disconnect_code">code</string>
+    <string name="json_request_lobby">lobby</string>
+    <string name="json_request_lobby_name">name</string>
+    <string name="json_request_lobby_players">playerNicknames</string>
+    <string name="json_request_join">join</string>
+    <string name="json_request_join_nickname">nickname</string>
+
+    <string name="json_reply">reply</string>
+    <string name="json_reply_status">status</string>
+    <string name="json_reply_status_ok">OK</string>
+    <string name="json_reply_status_notok">not OK</string>
+
+    <string name="json_update">update</string>
+    <string name="json_update_playerlist">player list</string>
+    <string name="json_update_playerlist_array">playerNicknames</string>
+    <string name="json_update_tick">tick</string>
+    <string name="json_update_game_start">game start</string>
+
+    <string name="string_toast_connecting">Connecting to %s\'s lobby.</string>
+    <string name="string_toast_disconnected">Disconnected from %1$s\'s lobby.\n%2$s</string>
+    <string name="string_toast_disconnected_unsafe">Abruptly disconnected.</string>
+    <string name="string_toast_disconnected_full">Lobby is full.</string>
+    <string name="string_toast_disconnected_invalid">Invalid request.</string>
+    <string name="string_toast_disconnected_verify">Could not verify user.</string>
+
+    <string name="string_row_lobby_name">%s\'s lobby.</string>
+    <string name="string_row_lobby_players">%1$d/%2$d player%3$s</string>
+</resources>
